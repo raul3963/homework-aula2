@@ -1,0 +1,13 @@
+.quadrado {
+    height: 25px;
+    width: 25px;
+    background-color: greenyellow;
+}
+
+#tabuleiro {
+    visibility: hidden;
+    margin-top: 10px;
+    border: 1px;
+    border-style: dashed;
+}
+
